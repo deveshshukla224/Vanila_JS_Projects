@@ -1,0 +1,14 @@
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 200px;
+    color: white;
+}
+
+.container > h2
+{
+    text-align: center;
+}
